@@ -1,4 +1,4 @@
-# Pokedex criado com HTML CSS E JavaScript
+# Pokedex created with HTML CSS E JavaScript
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
